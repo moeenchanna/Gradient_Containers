@@ -1,16 +1,9 @@
-# random_gradient_container
+# Random Gradient Containers
 
-A new Flutter project.
+<!-- ![](image/screenshot.png width="100") -->
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="left">
+            <img width="300" height="600" src="https://github.com/moeenchanna/Gradient_Containers/blob/main/screenshot/s1.png?raw=true">
+       
+</p>
